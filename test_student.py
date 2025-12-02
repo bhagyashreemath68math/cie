@@ -1,7 +1,7 @@
 from student import student_registration_details
 
 def test_student_details():
-    expected_output = (
+    expected_output=(
         "Student ID:323\n"
         "Student Name:Bhagya\n"
         "Course:BCA\n"
