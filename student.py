@@ -13,5 +13,4 @@ if __name__ == "__main__":
     name="Bhagya"
     course="BCA"
     academic_year="2024-2025"
-
     print(student_registration_details(student_id, name, course, academic_year))
